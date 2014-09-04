@@ -17,6 +17,8 @@ item.runix:aethergoggles.name=[WIP] Goggles of the Aether
 
 # -- Mics
 itemGroup.runix:runix=Runix
+key.catergories.runix=Runix
+key.changesmode=Change Transmutation Rod mode
 
 # -- ToolTips
 tooltip.runix:boundto=These goggles are bound to:
